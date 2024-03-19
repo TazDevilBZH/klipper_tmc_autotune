@@ -29,7 +29,7 @@ Then, add the following to your `moonraker.conf` to enable automatic updates:
 type: git_repo
 channel: dev
 path: ~/klipper_tmc_autotune
-origin: https://github.com/andrewmcgr/klipper_tmc_autotune.git
+origin: https://github.com/TazDevilBZH/klipper_tmc_autotune.git
 managed_services: klipper
 primary_branch: main
 install_script: install.sh
